@@ -80,11 +80,11 @@ Berdasarkan dataset Rossmann yang udah ada, kita expect:
 - [X] Data quality check
 - [x] Feature correlation analysis
 
-### Phase 2: Feature Engineering (day 2)
-- [x] Create temporal features
-- [x] Handle categorical variables
-- [x] Create interaction features
-- [x] Feature selection
+### Phase 2: Feature Engineering 
+- [ ] Create temporal features
+- [ ] Handle categorical variables
+- [ ] Create interaction features
+- [ ] Feature selection
 
 ### Phase 3: Model Development
 - [ ] Baseline models
