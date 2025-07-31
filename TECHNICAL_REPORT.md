@@ -76,7 +76,7 @@ Berdasarkan dataset Rossmann yang udah ada, kita expect:
 
 ### Phase 1: Data Exploration (day 1)
 - [x] Load dan merge data
-- [ ] Exploratory Data Analysis
+- [x] Exploratory Data Analysis
 - [ ] Data quality check
 - [ ] Feature correlation analysis
 
