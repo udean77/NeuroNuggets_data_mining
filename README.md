@@ -71,9 +71,9 @@ Data mining/
 
 ## 📝 TODO
 
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Feature Engineering
-- [ ] Model Selection
-- [ ] Hyperparameter Tuning
-- [ ] Model Evaluation
-- [ ] Submission
+- [x] Exploratory Data Analysis (EDA)
+- [x] Feature Engineering
+- [x] Model Selection
+- [x] Hyperparameter Tuning
+- [x] Model Evaluation
+- [x] Submission
