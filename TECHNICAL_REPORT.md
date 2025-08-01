@@ -86,8 +86,8 @@ Berdasarkan dataset Rossmann yang udah ada, kita expect:
 - [x] Create interaction features
 - [x] Feature selection
 
-### Phase 3: Model Development
-- [ ] Baseline models
+### Phase 3: Model Development (day 3)
+- [x] Baseline models
 - [ ] Hyperparameter tuning
 - [ ] Cross-validation
 - [ ] Model comparison
