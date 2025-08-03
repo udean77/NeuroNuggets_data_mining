@@ -20,7 +20,7 @@ Data mining/
 │   ├── test.csv            # Data testing
 │   ├── store.csv           # Info toko
 │   └── sample_submission.csv # Format submission
-├── Coding.ipynb      # Notebook buat load & explore data
+├── Data_mining.ipynb      # Notebook buat load & explore data
 └── README.md              # File ini
 ```
 
